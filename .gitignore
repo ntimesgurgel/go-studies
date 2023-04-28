@@ -1,0 +1,3 @@
+*/**/*.sh
+*/**/postgres-data/
+*/**/postres-data/
